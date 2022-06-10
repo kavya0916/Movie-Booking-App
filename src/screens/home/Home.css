@@ -1,0 +1,25 @@
+.umheading{
+    background-color: #ff9999;
+    padding: 8px;
+    text-align: center;
+    font-size: 1rem;
+    display: block;
+}
+.flex-container {
+    display: flex;
+}
+
+.homeImages {
+    width: 76%;
+    margin: 16px;
+}
+
+.movieFilter {
+    width: 24%;
+    margin: 16px;
+}
+
+.leftListItem {
+    margin: 20px;
+    cursor: pointer;
+}
